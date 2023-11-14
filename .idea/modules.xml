@@ -2,7 +2,7 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
-      <module fileurl="file://$PROJECT_DIR$/WegeZuAskalon.iml" filepath="$PROJECT_DIR$/WegeZuAskalon.iml" />
+      <module fileurl="file://$PROJECT_DIR$/AskalonRTS.iml" filepath="$PROJECT_DIR$/AskalonRTS.iml" />
     </modules>
   </component>
 </project>
